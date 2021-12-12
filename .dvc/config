@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://dvc-storage-ryanho/store-sales-time-series-forecasting
